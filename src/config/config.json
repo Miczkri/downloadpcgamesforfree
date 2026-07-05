@@ -1,0 +1,33 @@
+{
+  "site": {
+    "title": "downloadpcgamesforfree.com | Download PC Games for free",
+    "base_url": "https://downloadpcgamesforfree.com",
+    "base_path": "/",
+    "trailing_slash": true,
+    "favicon": "/images/favicon.ico"
+  },
+
+  "settings": {
+    "pagination": 9
+  },
+
+  "metadata": {
+    "meta_description": "Downloadpcgamesforfree.com is the best website for downloading free PC games. All your favorite games in one place!"
+  },
+
+  "google_tag_manager": {
+    "enable": true,
+    "gtm_id": "GTM-PG88GXFW"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "© 2026 downloadpcgamesforfree.com"
+  },
+
+  "contactinfo": {
+    "address": "525 Niagara St <br/> Buffalo, New York",
+    "email": "contact@downloadpcgamesforfree.com",
+    "phone": "+(716) 885-22331"
+  }
+}
