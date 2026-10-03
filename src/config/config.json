@@ -1,10 +1,11 @@
 {
   "site": {
-    "title": "downloadpcgamesforfree.com",
+    "title": "DownloadPCGamesForFree.com - Download PC Games and more",
     "base_url": "https://downloadpcgamesforfree.com",
     "base_path": "/",
     "trailing_slash": true,
-    "favicon": "/images/favicon.ico"
+    "favicon": "/images/favicon.ico",
+    "logo_text": "DownloadPCGamesForFree"
   },
 
   "settings": {
@@ -12,7 +13,7 @@
   },
 
   "metadata": {
-    "meta_description": "Downloadpcgamesforfree.com is the best website for downloading free PC games. All your favorite games in one place!"
+    "meta_description": "DownloadPCGamesForFree.com is the best website for downloading free PC games. All your favorite games in one place!"
   },
 
   "google_tag_manager": {
@@ -22,7 +23,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "© 2026 DownloadPcGamesForFree.com. All video game descriptions appearing on the DownloadPcGamesForFree.com website are for informational and review purposes only. The video games are the property of their publishers and developers. We encourage you to support the creators by purchasing the video games through official distribution channels."
+    "copyright": "© 2026 DownloadPCGamesForFree.com. All video game descriptions appearing on the DownloadPcGamesForFree.com website are for informational and review purposes only. The video games are the property of their publishers and developers. We encourage you to support the creators by purchasing the video games through official distribution channels."
   },
 
   "contactinfo": {
